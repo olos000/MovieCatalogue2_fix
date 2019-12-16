@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MovieCatalogue2</string>
+    <string name="title_activity_bottom_nav">bottom_nav</string>
+    <string name="title_menu_movies">Filim</string>
+    <string name="title_menu_tvshow">AcaraTv</string>
+    <string name="title_home">Berada</string>
+    <string name="change_language_settings">Konfigurasi Bahasa</string>
+    <string name="title_coba_activity" >Coba Activity</string>
+
+
+</resources>
